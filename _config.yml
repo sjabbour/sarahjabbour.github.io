@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sarah Jabbour"
 title_separator          : "-"
 name                     : &name "Sarah Jabbour"
-description              : &description "CSE PhD Student at the University of Michigan"
+description              : &description "CSE PhD Student at the University of Michigan [get the PDF]({{ sjabbour.github.io }}/files/paper1.pdf)"
 url                      : https://sjabbour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sjabbour.github.io"
@@ -112,7 +112,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  CV               : "files/paper1.pdf"
 
 
 # Reading Files
