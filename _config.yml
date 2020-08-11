@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sarah Jabbour"
 title_separator          : "-"
 name                     : &name "Sarah Jabbour"
-description              : &description "CSE PhD Student at the University of Michigan"
+description              : &description 
 url                      : https://sjabbour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sjabbour.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sarah Jabbour"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "CSE PhD Student"
   location         : "Ann Arbor, MI"
   employer         :
   email            : "sjabbour (at) umich (dot) edu"
@@ -100,8 +100,7 @@ author:
   instagram        : "sarahhjabbour"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/sarah-jabbour-780196a7/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
