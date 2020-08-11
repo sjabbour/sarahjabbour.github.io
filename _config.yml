@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sarah Jabbour"
 title_separator          : "-"
 name                     : &name "Sarah Jabbour"
-description              : &description 
+description              : &description "CSE PhD Student at the University of Michigan"
 url                      : https://sjabbour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sjabbour.github.io"
@@ -100,7 +100,7 @@ author:
   instagram        : "sarahhjabbour"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "in/sarah-jabbour"
+  linkedin         : "/in/sarah-jabbour/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
