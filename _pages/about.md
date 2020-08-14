@@ -27,8 +27,8 @@ Teaching
 
 Teaching Assistant: 
 
-- **TO 502: Business Statistics**, Core MBA Class, Fall 2016 - Fall 2020,  University of Michigan Ross School of Business. With [Mohamed Mostagir](http://www-personal.umich.edu/~mosta/?_ga=2.50348777.1103566218.1597184050-1647609115.1452647709)
+- **TO 502: Business Statistics**, Core MBA Class, Fall 2016 - Fall 2020,  University of Michigan Ross School of Business. With [Mohamed Mostagir](http://www-personal.umich.edu/~mosta/?_ga=2.50348777.1103566218.1597184050-1647609115.1452647709). 
 
 
-- **TO 301: Business Analytics and Statistics**, Core BBA Class, Fall 2015,  University of Michigan Ross School of Business. With [Mohamed Mostagir](http://www-personal.umich.edu/~mosta/?_ga=2.50348777.1103566218.1597184050-1647609115.1452647709)
+- **TO 301: Business Analytics and Statistics**, Core BBA Class, Fall 2015,  University of Michigan Ross School of Business. With [Mohamed Mostagir](http://www-personal.umich.edu/~mosta/?_ga=2.50348777.1103566218.1597184050-1647609115.1452647709). 
 
