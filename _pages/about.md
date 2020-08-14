@@ -14,4 +14,4 @@ I'm a Computer Science and Engineering PhD Student at the [University of Michiga
 
 Publications
 ===
-**Sarah Jabbour**, David Fouhey, Ella Kazerooni, Michael W. Sjoding, Jenna Wiens. Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts. *MLHC*, August 2020. [\[PDF\]](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5f22ccaf9de3991fef7b2802/1596116146792/134_CameraReadySubmission_MLHC_Chest_X_ray_Submission_2020_camera_ready%281%29.pdf) [\[Video\]](https://www.youtube.com/watch?v=xzSL7f5CjzI&t=5s)
+**Sarah Jabbour**, David Fouhey, Ella Kazerooni, Michael W. Sjoding, Jenna Wiens. Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts. *MLHC*, August 2020. [\[PDF\]](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5f22ccaf9de3991fef7b2802/1596116146792/134_CameraReadySubmission_MLHC_Chest_X_ray_Submission_2020_camera_ready%281%29.pdf) [\[Video\]](https://www.youtube.com/watch?v=xzSL7f5CjzI&t=5s) [\[Bibtex\]](files/jabbour20.bib)
