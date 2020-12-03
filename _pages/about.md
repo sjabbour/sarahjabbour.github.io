@@ -20,7 +20,11 @@ News
 
 Publications
 ===
-![](images/chest.png =100x20)**Sarah Jabbour**, David Fouhey, Ella Kazerooni, Michael W. Sjoding, Jenna Wiens. Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts. *MLHC*, August 2020. [\[PDF\]](files/jabbour20.pdf) [\[Code\]](https://gitlab.eecs.umich.edu/mld3/deep-learning-applied-to-chest-x-rays-exploiting-and-preventing-shortcuts) [\[Video\]](https://www.youtube.com/watch?v=xzSL7f5CjzI&t=5s) [\[Bibtex\]](files/jabbour20.bib) 
+
+**Deep Learning Applied to Chest X-rays: Exploiting and Preventing Shortcuts** 
+Recently, deep learning has made significant improvements in automating the diagnosis of disease from chest X-rays. However, these models are easily susceptible to the use of features that do not directly cause disease, but rather are correlated with disease in the training population. Since these features may not transfer across populations, we developed an approach to encourage models to use *clinically relevant* features in the data. 
+
+**Sarah Jabbour**, David Fouhey, Ella Kazerooni, Michael W. Sjoding, Jenna Wiens. Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts. *MLHC*, August 2020. [\[PDF\]](files/jabbour20.pdf) [\[Code\]](https://gitlab.eecs.umich.edu/mld3/deep-learning-applied-to-chest-x-rays-exploiting-and-preventing-shortcuts) [\[Video\]](https://www.youtube.com/watch?v=xzSL7f5CjzI&t=5s) [\[Bibtex\]](files/jabbour20.bib) 
 
 Teaching
 ===
